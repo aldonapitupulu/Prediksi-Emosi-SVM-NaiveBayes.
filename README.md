@@ -1,4 +1,4 @@
-# Klasifikasi Emosi Berbasis Teks Menggunakan Algoritma SVM dan Naive Bayes
+# Predikis Emosi Berbasis Teks Menggunakan Algoritma SVM dan Naive Bayes
 
 ## 📝 Deskripsi Proyek
 
